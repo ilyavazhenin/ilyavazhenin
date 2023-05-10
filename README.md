@@ -6,7 +6,7 @@ Frontend developer
 
 with a 9+ years of project, product and resource management xp in the past. Yep, that's how I ended up in this situation! :D 
 
-While been working in IT companies that build products and services, I was always passionate about how things really works inside. Now I focus on swtching from managing to developing frontend apps. As I have a good base to start, I'm wondering will it work out for me to become a Tech or Team lead in the future after my career pivot!
+While been working in IT companies that build products and services, I was always passionate about how things really works inside. And one day, I'm going to swtch from managing to developing frontend apps (sorry, not right now, want to build couple of more pet projects). As I have a good base to start, I'm wondering will it work out for me to become a Tech or Team lead in the future after my career pivot and going through developer's path!
 
 * 🌍  I'm based in Izhevsk, Russia.
 * ✉️  You can contact me at [https://t.me/ilyavazhenin](mailto:https://t.me/ilyavazhenin)
@@ -15,7 +15,6 @@ While been working in IT companies that build products and services, I was alway
 * ⚡  Surely certain about what I want to do now. First, I need to finish my Hexlet FE developer's education. Second, I need to make a couple of more pet projects I always wanted to build. Third is to change my job title and become a FE deveoper to start my developer's career.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
