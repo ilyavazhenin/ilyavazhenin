@@ -4,9 +4,10 @@ Hi 👋 My name is Ilia Vazhenin
 Frontend developer
 ------------------
 
-with a 9+ years of project, product and resource management xp in the past. Yep, that's how I ended up in this situation! :D 
+with a 10+ years of project, product and resource management xp in the past. Now going to switch to Frontend dev.
+And that's how I ended up in this situation! :D 
 
-While been working in IT companies that build products and services, I was always passionate about how things really works inside. And one day, I'm going to swtch from managing to developing frontend apps (sorry, not right now, want to build couple of more pet projects). As I have a good base to start, I'm wondering will it work out for me to become a Tech or Team lead in the future after my career pivot and going through developer's path!
+While been working in IT companies that build products and services, I always was passionate about how things really works inside. And now I've realize I want to swtch from managing projects and people to developing frontend apps (sorry, not right now, want to build couple of more pet projects and have little more practice with TS). As I have a good base to start, I'm wondering if it will work out for me to become a Tech or Team lead in the future after my career pivot and going through developer's path!
 
 * 🌍  I'm based in Izhevsk, Russia.
 * ✉️  You can contact me at [https://t.me/ilyavazhenin](mailto:https://t.me/ilyavazhenin)
@@ -31,7 +32,7 @@ While been working in IT companies that build products and services, I was alway
 1. Mini console math games: https://github.com/ilyavazhenin/frontend-project-lvl1
 2. Diff searcher between two json/yaml files: https://github.com/ilyavazhenin/frontend-project-46
 3. Personal RSS reader: https://github.com/ilyavazhenin/frontend-project-11
-4. React chat app (starting soon)
+4. React chat app based on sockets (WIP): (https://github.com/ilyavazhenin/frontend-project-11)
 
 
 ### Socials
