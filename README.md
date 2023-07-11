@@ -1,7 +1,7 @@
 Hi 👋 My name is Ilia Vazhenin
 ==============================
 
-Frontend developer
+I am a Frontend developer
 ------------------
 
 with a 10+ years of project, product and resource management xp in the past. Now going to switch to Frontend dev.
@@ -32,7 +32,7 @@ While been working in IT companies that build products and services, I always wa
 1. Mini console math games: https://github.com/ilyavazhenin/frontend-project-lvl1
 2. Diff searcher between two json/yaml files: https://github.com/ilyavazhenin/frontend-project-46
 3. Personal RSS reader: https://github.com/ilyavazhenin/frontend-project-11
-4. React chat app based on sockets (WIP): (https://github.com/ilyavazhenin/frontend-project-11)
+4. React chat app based on sockets: https://github.com/ilyavazhenin/frontend-project-12
 
 
 ### Socials
