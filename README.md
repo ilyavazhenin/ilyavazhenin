@@ -14,7 +14,7 @@ While been working in IT companies that build products and services, I always wa
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on any funny projects
 * 🇺🇸  My english language lvl: B2 (believe I'm close to C1)
-* ⚡  As I'm finishing my fronted education and building pet projects, looking forwards to change my job title and become a FE deveoper to start my developer's career.
+* ⚡  As I'm finishing my fronted education and building pet projects, looking forward to change my job title and become a FE deveoper to start my developer's career.
 
 ### Skills
 
