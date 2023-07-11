@@ -13,7 +13,8 @@ While been working in IT companies that build products and services, I always wa
 * ✉️  You can contact me at [https://t.me/ilyavazhenin](mailto:https://t.me/ilyavazhenin)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on any funny projects
-* ⚡  Surely certain about what I want to do now. First, I need to finish my Hexlet FE developer's education. Second, I need to make a couple of more pet projects I always wanted to build. Third is to change my job title and become a FE deveoper to start my developer's career.
+* 🇺🇸  My english language lvl: B2 (believe I'm close to C1)
+* ⚡  As I'm finishing my fronted education and building pet projects, looking forwards to change my job title and become a FE deveoper to start my developer's career.
 
 ### Skills
 
