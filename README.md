@@ -7,7 +7,7 @@ I am a Frontend developer
 with a 10+ years of project, product and resource management xp in the past. Now going to switch to Frontend dev.
 And that's how I ended up in this situation! :D 
 
-While been working in IT companies that build products and services, I always was passionate about how things really works inside. And now I've realize I want to swtch from managing projects and people to developing frontend apps (sorry, not right now, want to build couple of more pet projects and have little more practice with TS). As I have a good base to start, I'm wondering if it will work out for me to become a Tech or Team lead in the future after my career pivot and going through developer's path!
+While been working in IT companies that build products and services, I always was passionate about how things really works inside. And now I've realized I want to swtch from managing projects and people to developing frontend apps. May be not right now, coz I want to build couple of more pet projects and have little more practice with Typescript. As I have a good tech base to start, I'm wondering if it will work out for me to become a Tech or Team lead in the future after my career pivot and going through developer's path!
 
 * 🌍  I'm based in Izhevsk, Russia.
 * ✉️  You can contact me at [https://t.me/ilyavazhenin](mailto:https://t.me/ilyavazhenin)
