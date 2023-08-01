@@ -30,10 +30,10 @@ While been working in IT companies that build products and services, I always wa
 </p>
 
 ### Portfolio
-1. Mini console math games: https://github.com/ilyavazhenin/frontend-project-lvl1
-2. Diff searcher between two json/yaml files: https://github.com/ilyavazhenin/frontend-project-46
-3. Personal RSS reader: https://github.com/ilyavazhenin/frontend-project-11
-4. React chat app based on sockets: https://github.com/ilyavazhenin/frontend-project-12
+1. Mini console math games: https://github.com/ilyavazhenin/math-games
+2. Diff searcher between two json/yaml files: https://github.com/ilyavazhenin/diff-searcher-utility
+3. Personal RSS reader: https://github.com/ilyavazhenin/personal-rss-reader
+4. React chat app based on sockets: https://github.com/ilyavazhenin/chat-with-sockets
 
 
 ### Socials
