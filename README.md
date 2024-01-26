@@ -34,6 +34,7 @@ While been working in IT companies that build products and services, I always wa
 2. Diff searcher between two json/yaml files: https://github.com/ilyavazhenin/diff-searcher-utility
 3. Personal RSS reader: https://github.com/ilyavazhenin/personal-rss-reader
 4. React chat app based on sockets: https://github.com/ilyavazhenin/chat-with-sockets
+5. (WIP, needs refactoring a bit) Pace calculator for runners, PWA: https://github.com/ilyavazhenin/runners-pace-calc
 
 
 ### Socials
